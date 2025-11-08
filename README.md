@@ -6,7 +6,6 @@ Currently developing the **Urban Heat Island (UHI) Mapping & Prediction Platform
 I love solving problems with code, visualizing complex data beautifully, and building meaningful tech for smarter cities.
 
 
-
 ###  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +18,6 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 ![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
 
 ### Currently
 - 🌡️ Building ML models to predict **Urban Heat Intensity** in Malaysian cities  
@@ -27,14 +25,13 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 - 📊 Developing a **Streamlit dashboard** with live geospatial visualization  
 - 🧩 Exploring **XGBoost vs. Random Forest** model performance  
 
----
+
 
 ###  Status
 ![Status](https://img.shields.io/badge/currently-coding-blue?style=for-the-badge)
 ![Playing](https://img.shields.io/badge/playing-LoFi%20Beats%20☕-purple?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/learning-ML%20Ops%20&%20Data%20Pipelines-orange?style=for-the-badge)
 
----
 
 ###  Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harist-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
