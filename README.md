@@ -37,12 +37,6 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 
 ---
 
-### ⚡ GitHub Stats
-![Harist's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haristxyz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haristxyz&layout=compact&theme=tokyonight)
-
----
-
 ### ☕ Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harist-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harist.dev-ff69b4?style=flat)](https://your-portfolio-link)
