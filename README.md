@@ -17,7 +17,6 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-3E8E41?style=for-the-badge)
 ![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
