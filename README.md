@@ -7,7 +7,7 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 
 
 
-### 🧠 Tech Stack
+###  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,7 +22,7 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 
 ---
 
-### 🎯 Currently
+### Currently
 - 🌡️ Building ML models to predict **Urban Heat Intensity** in Malaysian cities  
 - 🛰️ Processing **Landsat & Sentinel-2** satellite data for NDVI, NDBI & LST  
 - 📊 Developing a **Streamlit dashboard** with live geospatial visualization  
@@ -30,14 +30,14 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 
 ---
 
-### 💬 Status
+###  Status
 ![Status](https://img.shields.io/badge/currently-coding-blue?style=for-the-badge)
 ![Playing](https://img.shields.io/badge/playing-LoFi%20Beats%20☕-purple?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/learning-ML%20Ops%20&%20Data%20Pipelines-orange?style=for-the-badge)
 
 ---
 
-### ☕ Connect
+###  Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harist-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harist.dev-ff69b4?style=flat)](https://your-portfolio-link)
 [![Email](https://img.shields.io/badge/Email-harist%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:harist@gmail.com)
