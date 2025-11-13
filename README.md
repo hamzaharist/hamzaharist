@@ -34,7 +34,7 @@ I love solving problems with code, visualizing complex data beautifully, and bui
 
 
 ###  Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harist-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hutapeaharist/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harist Hamzah Hutapea-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hutapeaharist/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harist.dev-ff69b4?style=flat)](https://your-portfolio-link)
 [![Email](https://img.shields.io/badge/Email-harist%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hutapeaharist@gmail.com)
 
