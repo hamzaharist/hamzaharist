@@ -1,6 +1,6 @@
 # Hey There! 
 
-I'm **Harist**  a final-year **Information Systems (Big Data Analytics)** student passionate about **Machine Learning**, **Geospatial Analysis**, and **Data Visualization**.  
+I'm **Harist**  a final-year **Information Systems (Big Data Analytics)** student passionate about **Machine Learning** and **Data Visualization**.  
 Currently developing the **Urban Heat Island (UHI) Mapping & Prediction Platform**  using satellite data, AI, and interactive dashboards.  
 
 I love solving problems with code, visualizing complex data beautifully, and building meaningful tech for smarter cities.
