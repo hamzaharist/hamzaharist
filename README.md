@@ -1,40 +1,100 @@
-# Hey There! 
+<!-- ============================================================
+     HARIST HAMZAH HUTAPEA — GitHub Profile README
+     ============================================================ -->
 
-I'm **Harist**  a final-year **Information Systems (Big Data Analytics)** student passionate about **Machine Learning** and **Data Visualization**.  
-Currently developing the **Urban Heat Island (UHI) Mapping & Prediction Platform**  using satellite data, AI, and interactive dashboards.  
+<div align="center">
 
-I love solving problems with code, visualizing complex data beautifully, and building meaningful tech for smarter cities.
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      H A R I S T   H A M Z A H   H U T A P E A             ║
+║                                                              ║
+║      data × systems × building things that matter           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+</div>
 
-###  Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-3E8E41?style=for-the-badge)
-![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
 
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-### Currently
-- 🌡️ Building ML models to predict **Urban Heat Intensity** in Malaysian cities  
-- 🛰️ Processing **Landsat & Sentinel-2** satellite data for NDVI, NDBI & LST  
-- 📊 Developing a **Streamlit dashboard** with live geospatial visualization  
-- 🧩 Exploring **XGBoost vs. Random Forest** model performance  
+### `whoami`
 
+Final-year Big Data Analytics student — studying in Malaysia, heart somewhere between Pekanbaru and Jakarta.
 
+I think in frameworks but build in code. I want to understand a problem well enough to solve it, then automate it so I never have to solve it again. Long-term play: consulting → product → my own thing.
 
-###  Status
-![Status](https://img.shields.io/badge/currently-coding-blue?style=for-the-badge)
-![Playing](https://img.shields.io/badge/playing-LoFi%20Beats%20☕-purple?style=for-the-badge)
-![Learning](https://img.shields.io/badge/learning-ML%20Ops%20&%20Data%20Pipelines-orange?style=for-the-badge)
+Currently finishing my thesis on **AI-driven Urban Heat Island mapping** across Malaysian cities — 80k datapoints, Random Forest, full-stack geospatial platform. Turns out heatwaves are a data problem.
 
+> *"Bukan yang paling pintar, tapi yang paling tau gimana caranya."*
+> *(Not the smartest — just the one who figures it out.)*
 
-###  Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harist-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hutapeaharist/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-harist.dev-ff69b4?style=flat)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-harist%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hutapeaharist@gmail.com)
+---
 
+### `stack.json`
+
+```json
+{
+  "data":     ["Python", "SQL", "BigQuery", "Pandas", "Scikit-learn"],
+  "viz":      ["Power BI / DAX", "Tableau", "Plotly"],
+  "build":    ["React 18", "FastAPI", "Supabase", "Vite"],
+  "automate": ["Power Automate", "Power Apps", "RPA"],
+  "cloud":    ["GCP", "PostgreSQL"],
+  "currently_learning": ["LLM product design", "Geo-AI pipelines"]
+}
+```
+
+---
+
+### `projects/`
+
+> Things I built that I'd actually use.
+
+| project | what it is | stack |
+|---|---|---|
+| 🌡️ **[Urban Heat Insights Platform]** | AI-driven UHI mapping & forecasting for Malaysian cities. Thesis-turned-product. | React · FastAPI · Supabase · RF Model |
+| 💸 **[Cerita Uang]** | Personal finance app for Indonesian Gen Z — built around the idea that talking about money shouldn't feel shameful | Vite · React · JSON-driven config |
+| 📊 **[BI Churn Dashboard]** | End-to-end churn analytics for business stakeholders — from raw data to executive storytelling | Power BI · DAX · SQL |
+| 🤖 **[HR Report Automation]** | RPA/IPA pipeline that auto-generates monthly HR reports — the boring work, automated away | Power Automate · Power Apps |
+
+---
+
+### `now.log`
+
+```bash
+[✓] Thesis defended — Urban Heat Insights Platform
+[~] Open to: Data Analyst / Business Analyst / Consulting roles
+[~] Exploring: Geospatial tech (Bvarta/Lokasi type work)
+[~] Side interest: Building Micro-SaaS / AI products someday
+[✓] Location: Malaysia (UTP) ↔ Indonesia (Pekanbaru)
+```
+
+---
+
+### `values.md`
+
+I care about work that has a real use. I'm not the type to build a project just to put it on a CV — if I'm building something, I want to understand the why deeply enough that I could pitch it, defend it, and scale it. I've got a consulting brain but a builder's hands.
+
+I'm also just a person who grew up between Javanese warmth and Gen Z internet culture, which means I take work seriously and nothing else too seriously.
+
+---
+
+### `connect --options`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harist--hamzah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haristhamzahhutapea)
+[![Email](https://img.shields.io/badge/Email-harist.hutapea%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harist.hutapea@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haristhamzah.dev-111827?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+*Built in Malaysia. Rooted in Indonesia. Shipping from both.*
+
+</div>
