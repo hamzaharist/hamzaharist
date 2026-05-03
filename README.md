@@ -7,7 +7,7 @@
         <li>🏋️‍♂️ When I'm not training ML models (XGBoost & CatBoost are my favorites), I'm training at the gym (running that Upper/Lower/PPL split) and chasing my 140g daily protein goal.</li>
         <li>🎧 My debugging soundtrack usually features a heavy rotation of Sade, John Mayer, or Bad Bunny.</li>
         <li>☕ Powered by good coffee, current favourite from <strong>103 Coffe</strong> and the endless pursuit of the perfect bowl of Mie Ayam.</li>
-        <li>🚀 Recent Information Systems grad from <strong>UTP</strong> #EnergisingFutures currently building out my portfolio in KL and hunting for my next <strong> big data role! </strong></li>
+        <li>🚀 Recent Information Systems grad from <strong>Universiti Teknologi PETRONAS (UTP)</strong> <a href="#"><u>#EnergisingFutures</u></a> currently building out my portfolio and hunting for my next <strong> big data role! </strong></li>
       </ul>
     </td>
     <td width="35%" valign="top">
