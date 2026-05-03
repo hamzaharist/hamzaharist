@@ -3,12 +3,11 @@
     <td width="65%" valign="top">
       <h2>👋 Hey! I'm Harist, Data Analyst.</h2>
       <ul>
-        <li>💼 Building data-driven solutions and applying machine learning to real-world environmental and financial challenges.</li>
-        <li>🌟 Currently developing an Urban Heat Island mapping platform to analyze and predict temperature patterns in Malaysia.</li>
-        <li>🚀 Passionate about the intersection of Geospatial Analysis and Data Engineering, with a focus on creating automated, scalable pipelines.</li>
-        <li>❤️ I love working with Python, building interactive dashboards, and optimizing predictive models.</li>
-        <li>👷🏻‍♂️ Machine Learning and Data Infrastructure researcher.</li>
-        <li>📊 Developing custom financial analytics tools in my free time. Skilled in Power BI and PostgreSQL.</li>
+        <li>💼 Translating data chaos into clarity using Python, Power BI, and a bit of Machine Learning magic.</li>
+        <li>🏋️‍♂️ When I'm not training ML models (XGBoost & CatBoost are my favorites), I'm training at the gym (running that Upper/Lower/PPL split) and chasing my 140g daily protein goal.</li>
+        <li>🎧 My debugging soundtrack usually features a heavy rotation of Sade, John Mayer, or Bad Bunny.</li>
+        <li>☕ Powered by good coffee, current favourite from **103 Coffee** and the endless pursuit of the perfect bowl of Mie Ayam.</li>
+        <li>🚀 Recent Information Systems grad (ITS Dual Degree) currently building out my portfolio in KL and hunting for my next **big data role!**</li>
       </ul>
     </td>
     <td width="35%" valign="top">
