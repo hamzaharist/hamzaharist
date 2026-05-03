@@ -6,7 +6,7 @@
         <li>💼 Translating data chaos into clarity using Python, Power BI, and a bit of Machine Learning magic.</li>
         <li>🏋️‍♂️ When I'm not training ML models (XGBoost & CatBoost are my favorites), I'm training at the gym (running that Upper/Lower/PPL split) and chasing my 140g daily protein goal.</li>
         <li>🎧 My debugging soundtrack usually features a heavy rotation of Sade, John Mayer, or Bad Bunny.</li>
-        <li>☕ Powered by good coffee, current favourite from **103 Coffee** and the endless pursuit of the perfect bowl of Mie Ayam.</li>
+        <li>☕ Powered by good coffee, current favourite from <li><strong>103 Coffe</strong> and the endless pursuit of the perfect bowl of Mie Ayam.</li>
         <li>🚀 Recent Information Systems grad (ITS Dual Degree) currently building out my portfolio in KL and hunting for my next **big data role!**</li>
       </ul>
     </td>
