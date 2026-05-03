@@ -29,7 +29,7 @@
 | :--- | :---: | :--- |
 | **Urban Heat Island** | [Demo/Repo](#) | Mapping platform using Landsat 8/9 imagery and ML models (Random Forest, CatBoost) to predict Land Surface Temperature. |
 | **Geospatial Modeling** | [Demo](#) | Utilizing feature importance (MDI) and geospatial libraries to identify key drivers of urban heat accumulation. |
-| **Oil Price Forecasting** | [Demo](#) | Utilizing feature importance (MDI) and geospatial libraries to identify key drivers of urban heat accumulation. |
+| **Oil Price Forecasting** | [Demo](https://oil-price-forecasting.streamlit.app/) | Machine learning dashboard forecasting Brent crude oil prices and production. |
 | **Subscription Analytics** | [Demo](#) | A Netflix-inspired Power BI dashboard for tracking subscriber growth, churn rates, and financial performance metrics. |
 | **Financial SSoT** | [Demo](#) | Automated data engineering pipeline developed for a major energy company to consolidate financial data into a Single Source of Truth. |
 | **FinTrack** | [Coming Soon](#) | Something exciting is on the making for the Gen-Z.  |
