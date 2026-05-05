@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-### 🧑‍🚀 Latest project participant & contribute
+### 🧑‍🚀 Projects
 
 | 💻 Projects | 🌟 Source code & Presentation | 📜 Description |
 | :--- | :---: | :--- |
