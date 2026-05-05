@@ -27,7 +27,7 @@
 
 | 💻 Projects | 🌟 Source code & Presentation | 📜 Description |
 | :--- | :---: | :--- |
-| **Data Profiler** | [Demo]([https://vercel.com/hamzaharists-projects/data-profiler](https://data-profiler-seven.vercel.app/)) | High-speed client-side data quality profiling for CSV and Excel files. |
+| **Data Profiler** | [Demo]((https://data-profiler-seven.vercel.app/) | High-speed client-side data quality profiling for CSV and Excel files. |
 | **Urban Heat Island** | [Demo/Repo](#) | Mapping platform using Landsat 8/9 imagery and ML models (Random Forest, CatBoost) to predict Land Surface Temperature. |
 | **Geospatial Modeling** | [Demo](#) | Utilizing feature importance (MDI) and geospatial libraries to identify key drivers of urban heat accumulation. |
 | **Oil Price Forecasting** | [Demo](https://oil-price-forecasting.streamlit.app/) | Machine learning dashboard forecasting Brent crude oil prices and production. |
